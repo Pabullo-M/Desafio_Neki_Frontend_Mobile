@@ -11,3 +11,6 @@ Usando EXPO
 - Rode o comando "npx expo start" (Caso tenha problemas com o -- tunnel, acessar package.json >> em scripts: { "start": "expo start --tunnel",...} remover o --tunnel
   salvar e rodar o comando "npx expo start" novamente
 - Abra o projeto em um celular usando o App Expo Go.
+
+### Endpoit de acesso
+Lembre-se de alterar o endpoint em src >> service >> Api, para o que foi gerado após startar o servidor JavaSpring https://github.com/Pabullo-M/Desafio_Neki_BackEnd  
