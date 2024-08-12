@@ -8,6 +8,6 @@ Usando EXPO
 - Abra o projeto na sua IDE da sua preferencia
 - Rode dentro da pasta do projeto no terminal o comando  "npm install"
 - Aguarde todas as depedencias serem instaladas
-- Rode o comando "npx expo start" (Caso tenha problemas com o -- tunnel, acessar package.json >> em scripts: { "start": "expo start --tunnel", ...} remover o --tunnel
+- Rode o comando "npx expo start" (Caso tenha problemas com o -- tunnel, acessar package.json >> em scripts: { "start": "expo start --tunnel",} remover o --tunnel
  >> salvar e rodar o comando "npx expo start" novamente
 - Abra o projeto em um celular usando o App Expo Go.
