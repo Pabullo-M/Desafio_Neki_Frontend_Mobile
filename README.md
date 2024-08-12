@@ -13,4 +13,8 @@ Usando EXPO
 - Abra o projeto em um celular usando o App Expo Go.
 
 ### Endpoit de acesso
-Lembre-se de alterar o endpoint em src >> service >> Api, para o que foi gerado após startar o servidor JavaSpring https://github.com/Pabullo-M/Desafio_Neki_BackEnd  
+- Lembre-se de alterar o endpoint em src >> service >> Api, para o que foi gerado após startar o servidor JavaSpring https://github.com/Pabullo-M/Desafio_Neki_BackEnd
+- Caso seja startado em local host e for usado no celular aconselho usar o Ngrok
+  https://dashboard.ngrok.com/get-started/setup/windows para conseguir acessar o endpoint do celular.
+  Obs: Se utilizar o Android Studio não será necessário utilizar o Ngrok ou ferramenta semelhante. 
+  
